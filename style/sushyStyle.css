@@ -1,0 +1,60 @@
+
+
+img {
+    width:40%;
+    height: auto;
+    float: right;
+    position: absolute;
+}
+
+h1 {
+    color: hwb(224 4% 41%);
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /*text-align: center;*/
+}
+
+.intro {
+    width: 50%;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 50%;
+}
+
+.ingredients, .steps, .bodysh{
+    background-color: rgb(203, 210, 212);
+    display: inline-block;
+    /*position: relative;*/
+    margin-top: 400px;
+}
+
+.ingredients {
+    width: 40%;
+    height: 40%;
+    margin-left: 5%;
+    float: left;
+    
+    
+}
+
+.steps {
+    width: 50%;
+    height: 40%;
+    float: right;
+    margin-right: 5%;
+    
+}
+
+.ingredients, .steps {
+    margin-top: 5%;
+
+}
+
+
+h1 {
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
